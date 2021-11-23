@@ -1,4 +1,4 @@
-Olá, eu sou o Rodrigo Silva, programador e estudante de ciência da computação <br>
+🖖🏻 Olá, eu sou o Rodrigo Silva<br>👨‍💻 Programador e estudante de ciência da computação<br>😊 Meus pronomes são ele/dele<br>
 
 ##
 
