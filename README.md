@@ -1,5 +1,5 @@
 - Hi, I’m @rudrigosilva
-- I’m interested in web development and data science
+- I’m interested in backend web development and data science
 - I’m currently learning JavaScript and about Nosql data bases
 - I’m looking to collaborate on web development
 - You can find me on Instagram how @rudrigo_silva
